@@ -1,0 +1,22 @@
+.cardImg{
+    width: 400px;
+    height: 400px;
+}
+
+.single-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    height: 85vh;
+}
+.single-pageBtn{
+    width: 150px;
+    height: 50px;
+    margin-bottom: 40px;
+    background-color:rgb(56, 114, 230);
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+}

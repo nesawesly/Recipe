@@ -1,0 +1,17 @@
+.recipes-wrapper{
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.home-page > h3{
+  padding: 20px;
+  color: rgb(56, 114, 230);
+  border-bottom: 3px solid rgb(56, 114, 230);
+}
+
+.home-page > div{
+  display: flex;
+  flex-wrap: wrap;
+}
